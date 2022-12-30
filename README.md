@@ -1,3 +1,5 @@
+<h1><p align="center">Hello, I'm Aimen El mouzammil! <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+
 **42 Profile :**
 <p align="center" width="100%">
     <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ael-mouz" alt="ael-mouz's 42 stats" /></a> 
