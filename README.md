@@ -1,5 +1,9 @@
 <h1><p align="center">Hello, I'm Aimen El mouzammil! <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
+**About Me:**
+
+I am a Full Stack Developer and a student at 1337, passionate about creating innovative solutions and learning new technologies. With a strong foundation in both front-end and back-end development, I strive to build robust and user-friendly applications. My goal is to leverage my skills and knowledge to deliver high-quality projects.
+
 **42 Profile :**
 <p align="center" width="100%">
     <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ael-mouz" alt="ael-mouz's 42 stats" /></a> 
@@ -39,5 +43,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ayman__elm/)
 
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ayman.elmouzammil/)
+
+[<img align="right" src="https://gpvc.arturio.dev/JavierCanon?style=for-the-badge" alt="https://github.com/JavierCanon" />](test)
 
 </p>
