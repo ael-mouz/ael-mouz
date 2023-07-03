@@ -30,7 +30,6 @@
 </p>
 
 <summary><h2>To connect with me</h2></summary>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="aimen-el-mouzammil-640086227" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/aimen-el-mouzammil-640086227?trk=profile-badge">Aimen El mouzammil</a></div>
 <p align = "center">
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/AymanElm4/) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ayman-elmouzammil-640086227/)
